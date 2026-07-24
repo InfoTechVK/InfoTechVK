@@ -1,178 +1,144 @@
 # InfoTech_VK
-<div align="center">
+<img src="assets/banner.svg" width="100%" />
 
-# 👋 Hi
+<br>
 
-### Building Open Internet Tools • Cloudflare Workers • Telegram Bots
+<h1 align="center">
+InfoTech_VK
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+InfoTechVK;Cloudflare+Workers+Developer;Telegram+Bot+Developer;Networking+%26+Automation;Open+Source+Contributor" alt="Typing Animation" />
-
-<p>
-<a href="https://github.com/InfoTechVK">
-<img src="https://img.shields.io/badge/GitHub-InfoTechVK-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://t.me/InfoTech_VK">
-<img src="https://img.shields.io/badge/Telegram-InfoTech__VK-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+<p align="center">
+<strong>اینترنت آزاد | Open Internet</strong>
 </p>
 
-</div>
+
+<p align="center">
+توسعه ابزارهای متن‌باز در حوزه شبکه، اتوماسیون، Cloudflare و تلگرام
+</p>
+
 
 ---
 
-# 🚀 Welcome
+## 👋 About Me
 
-Welcome to my GitHub profile.
+سلام، من پشت پروژه **InfoTech_VK** هستم.
 
-I'm passionate about building modern serverless applications with **Cloudflare Workers**, creating **Telegram Bots**, and developing open-source projects focused on networking, automation, and internet freedom.
+هدف من ساخت ابزارهای کاربردی، پروژه‌های متن‌باز و راهکارهای تکنولوژی برای دسترسی بهتر به اینترنت و توسعه آزاد است.
 
-Here you'll find projects, experiments, and tools designed to solve real-world problems and help developers build faster and smarter.
-
----
-
-# 👨‍💻 About Me
-
-- 🌐 Founder of **InfoTech_VK**
-- ☁️ Cloudflare Workers Developer
-- 🤖 Telegram Bot Developer
-- ⚡ JavaScript & TypeScript
-- 🔐 Networking & Security
-- 📡 Open Internet Projects
-- 🚀 Serverless Applications
-- ❤️ Open Source Enthusiast
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Mission
 
-### Languages
+تمرکز اصلی InfoTech_VK:
 
-![JavaScript](https://skillicons.dev/icons?i=js)
+- 🌐 Open Internet Technologies
+- ☁️ Cloudflare Workers
+- 🤖 Telegram Bots
+- ⚙️ Automation
+- 🔐 Networking Tools
+- 💻 Open Source Projects
 
-![TypeScript](https://skillicons.dev/icons?i=ts)
 
-### Frontend
+---
 
-![HTML](https://skillicons.dev/icons?i=html)
+## 🛠️ Tech Stack
 
-![CSS](https://skillicons.dev/icons?i=css)
 
-### Backend
+### Cloud & Backend
 
-![Cloudflare](https://go-skill-icons.vercel.app/api/icons?i=cloudflare)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-### Database
-
-- Cloudflare D1
-- Cloudflare KV
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-![GitHub](https://skillicons.dev/icons?i=github)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-![VSCode](https://skillicons.dev/icons?i=vscode)
+
 
 ---
 
-# 📊 GitHub Statistics
+## 📂 Featured Projects
+
+
+### 🤖 InfoTech_VK Bot
+
+Telegram automation tools and smart publishing systems.
+
+
+### ☁️ Cloudflare Projects
+
+Serverless applications powered by Cloudflare Workers.
+
+
+### 🌐 Networking Tools
+
+Open Internet related tools and resources.
+
+
+
+---
+
+## 📊 GitHub Stats
+
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=InfoTechVK&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoTechVK&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=InfoTechVK&show_icons=true&theme=github_dark" />
 
 </p>
 
+
 ---
 
-# 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=InfoTechVK&theme=tokyonight&hide_border=true"/>
+Coming Soon...
 
 </p>
 
+
 ---
 
-# 📈 Contribution Graph
+## 🎯 Current Goals
+
+- Building open-source tools
+- Improving networking solutions
+- Creating useful Telegram bots
+- Learning modern cloud technologies
+
+
+---
+
+## 🌍 Connect
+
+
+Telegram:
+
+https://t.me/InfoTech_VK
+
+
+GitHub:
+
+https://github.com/InfoTechVK
+
+
+---
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoTechVK&theme=tokyo-night&hide_border=true"/>
+<strong>
+InfoTech_VK | اینترنت آزاد
+</strong>
+
+<br>
+
+Building technology for a more open internet.
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=InfoTechVK&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-- 🌐 InfoTech_VK
-- 🤖 Telegram Bots
-- ☁️ Cloudflare Workers
-- 📡 Networking Tools
-- 🔐 Security Utilities
-- ⚙️ Automation Scripts
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Cloudflare Ecosystem
-- TypeScript
-- API Design
-- AI Integration
-- Web Security
-
----
-
-# 🌍 Interests
-
-- Cloud Computing
-- Networking
-- Automation
-- Open Source
-- Internet Freedom
-- Artificial Intelligence
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-<a href="https://github.com/InfoTechVK">
-<img src="https://img.shields.io/badge/GitHub-InfoTechVK-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://t.me/InfoTech_VK">
-<img src="https://img.shields.io/badge/Telegram-InfoTech__VK-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Build. Learn. Share. Repeat."*
-
-</div>
