@@ -226,7 +226,7 @@ and improve productivity.
 </h1>
 
 <p align="center">
-<img src="./github-metrics.svg" width="90%">
+<img src="./assets/github-metrics.svg" width="90%">
 </p>
 
 GitHub statistics will be added with GitHub Actions.
