@@ -158,11 +158,11 @@ If you enjoy my projects, feel free to ⭐ them.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/InfoTechVK)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="[@InfoTech_VK](https://t.me/InfoTech_VK)">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
