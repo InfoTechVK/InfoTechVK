@@ -225,8 +225,9 @@ and improve productivity.
 📊 GitHub Analytics
 </h1>
 
-
 <p align="center">
+<img src="./github-metrics.svg" width="90%">
+</p>
 
 GitHub statistics will be added with GitHub Actions.
 
