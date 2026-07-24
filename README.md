@@ -11,9 +11,8 @@ InfoTech_VK
 <strong>اینترنت آزاد | Open Internet</strong>
 </p>
 
-
 <p align="center">
-توسعه ابزارهای متن‌باز در حوزه شبکه، اتوماسیون، Cloudflare و تلگرام
+ساخت ابزارهای متن‌باز در حوزه شبکه، اتوماسیون، Cloudflare و تلگرام
 </p>
 
 
@@ -21,22 +20,24 @@ InfoTech_VK
 
 ## 👋 About Me
 
-سلام، من پشت پروژه **InfoTech_VK** هستم.
+سلام 👋
 
-هدف من ساخت ابزارهای کاربردی، پروژه‌های متن‌باز و راهکارهای تکنولوژی برای دسترسی بهتر به اینترنت و توسعه آزاد است.
+من سازنده **InfoTech_VK** هستم.
+
+هدف من توسعه ابزارهای کاربردی، پروژه‌های متن‌باز و راهکارهای تکنولوژی برای اینترنت آزاد، اتوماسیون و توسعه‌دهندگان است.
 
 
 ---
 
-## 🚀 Mission
+## 🎯 Mission
 
 تمرکز اصلی InfoTech_VK:
 
 - 🌐 Open Internet Technologies
 - ☁️ Cloudflare Workers
 - 🤖 Telegram Bots
-- ⚙️ Automation
-- 🔐 Networking Tools
+- ⚙️ Automation Tools
+- 🔐 Networking Solutions
 - 💻 Open Source Projects
 
 
@@ -45,57 +46,77 @@ InfoTech_VK
 ## 🛠️ Tech Stack
 
 
-### Cloud & Backend
+### ☁️ Cloud & Backend
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
 
-### Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+</p>
 
 
+### 🔧 Tools & Platforms
 
----
+<p>
 
-## 📂 Featured Projects
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
-### 🤖 InfoTech_VK Bot
-
-Telegram automation tools and smart publishing systems.
-
-
-### ☁️ Cloudflare Projects
-
-Serverless applications powered by Cloudflare Workers.
-
-
-### 🌐 Networking Tools
-
-Open Internet related tools and resources.
-
-
-
----
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=InfoTechVK&show_icons=true&theme=github_dark" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
 
 
 ---
 
-## 🐍 Contribution Snake
+# 📂 Featured Projects
+
+
+## 🤖 InfoTech_VK Telegram Bot
+
+Smart Telegram automation tools for publishing, managing and organizing content.
+
+
+## ☁️ Cloudflare Projects
+
+Serverless applications powered by Cloudflare Workers.
+
+
+## 🌐 Networking Tools
+
+Tools and resources focused on improving internet accessibility.
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=InfoTechVK&show_icons=true&theme=github_dark&hide_border=true"
+/>
+
+</p>
+
+
+<p align="center">
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=InfoTechVK&theme=github-dark-blue&hide_border=true"
+/>
+
+</p>
+
+
+---
+
+# 🐍 Contribution Snake
+
 
 <p align="center">
 
@@ -106,27 +127,51 @@ Coming Soon...
 
 ---
 
-## 🎯 Current Goals
+# 🚀 Current Goals
 
-- Building open-source tools
-- Improving networking solutions
+
+- Building open-source projects
 - Creating useful Telegram bots
-- Learning modern cloud technologies
+- Developing Cloudflare Workers applications
+- Improving networking tools
+- Learning modern infrastructure technologies
 
 
 ---
 
-## 🌍 Connect
+# 📚 Learning
 
 
-Telegram:
+Currently exploring:
 
-https://t.me/InfoTech_VK
+- Cloudflare Edge Computing
+- Serverless Architecture
+- Automation Systems
+- Advanced Networking
+- Open Source Development
 
 
-GitHub:
+---
 
-https://github.com/InfoTechVK
+# 🌍 Connect
+
+
+<p align="center">
+
+<a href="https://t.me/InfoTech_VK">
+
+<img src="https://img.shields.io/badge/Telegram-InfoTech__VK-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+</a>
+
+
+<a href="https://github.com/InfoTechVK">
+
+<img src="https://img.shields.io/badge/GitHub-InfoTechVK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
 
 
 ---
