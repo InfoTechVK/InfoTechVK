@@ -221,22 +221,45 @@ and improve productivity.
 
 ---
 
-# 📊 GitHub Analytics
+<h1 align="center">
+📊 GitHub Analytics
+</h1>
 
 
 <p align="center">
 
 <img 
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=InfoTechVK&show_icons=true&theme=github_dark&hide_border=true"
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=InfoTechVK&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+/>
+
+<img 
+width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoTechVK&layout=compact&theme=github_dark&hide_border=true"
 />
 
 </p>
 
 
+<br>
+
+
 <p align="center">
 
 <img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=InfoTechVK&theme=github-dark-blue&hide_border=true"
+src="https://streak-stats.demolab.com?user=InfoTechVK&theme=github-dark-blue&hide_border=true"
+/>
+
+</p>
+
+
+<br>
+
+
+<p align="center">
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=InfoTechVK&theme=darkhub&no-frame=true&row=1"
 />
 
 </p>
