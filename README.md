@@ -235,13 +235,12 @@ GitHub statistics will be added with GitHub Actions.
 
 ---
 
-# 🐍 Contribution Snake
-
+<h1 align="center">
+🐍 Contribution Snake
+</h1>
 
 <p align="center">
-
-Coming Soon...
-
+<img src="./dist/github-contribution-grid-snake.svg" width="90%">
 </p>
 
 
