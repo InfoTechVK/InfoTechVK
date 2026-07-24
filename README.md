@@ -74,22 +74,149 @@ InfoTech_VK
 
 ---
 
-# 📂 Featured Projects
+<h1 align="center">
+🚀 Featured Projects
+</h1>
 
 
-## 🤖 InfoTech_VK Telegram Bot
-
-Smart Telegram automation tools for publishing, managing and organizing content.
-
-
-## ☁️ Cloudflare Projects
-
-Serverless applications powered by Cloudflare Workers.
+<p align="center">
+Selected projects by InfoTech_VK
+</p>
 
 
-## 🌐 Networking Tools
+<br>
 
-Tools and resources focused on improving internet accessibility.
+
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+
+<h3 align="center">
+🤖 InfoTech_VK Bot
+</h3>
+
+
+<p align="center">
+
+Telegram automation platform
+
+<br><br>
+
+Smart publishing system,
+content management,
+and bot automation.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Active-39FF14?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram"/>
+
+</p>
+
+
+</td>
+
+
+<td width="50%">
+
+
+<h3 align="center">
+☁️ Cloudflare Projects
+</h3>
+
+
+<p align="center">
+
+Serverless applications using
+
+Cloudflare Workers
+
+<br><br>
+
+Fast,
+secure,
+and scalable edge solutions.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloud-Cloudflare-F38020?style=for-the-badge&logo=cloudflare"/>
+
+<img src="https://img.shields.io/badge/Type-Serverless-black?style=for-the-badge"/>
+
+</p>
+
+
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td width="50%">
+
+
+<h3 align="center">
+🌐 Networking Tools
+</h3>
+
+
+<p align="center">
+
+Open Internet tools
+
+<br><br>
+
+Solutions focused on networking,
+connectivity and accessibility.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Category-Networking-39FF14?style=for-the-badge"/>
+
+</p>
+
+
+</td>
+
+
+
+<td width="50%">
+
+
+<h3 align="center">
+⚙️ Automation Systems
+</h3>
+
+
+<p align="center">
+
+Automated workflows
+
+<br><br>
+
+Tools that reduce manual work
+and improve productivity.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Automation-00FFC6?style=for-the-badge"/>
+
+</p>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
 
 
 ---
