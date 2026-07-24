@@ -8,7 +8,9 @@ InfoTech_VK
 </h1>
 
 <p align="center">
-<strong>اینترنت آزاد | Open Internet</strong>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=InfoTech_VK;Open+Internet;Cloudflare+Workers;Telegram+Bots;Networking+%26+Automation" />
+
 </p>
 
 <p align="center">
